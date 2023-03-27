@@ -1,3 +1,5 @@
+// Cebuana Lhuilier System
+// Created  by : Christiane A. Bacani
 import java.util.Scanner;
 public class CebuanaLhuilier {
     
